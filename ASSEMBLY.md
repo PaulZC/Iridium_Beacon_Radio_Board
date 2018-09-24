@@ -1,6 +1,6 @@
 # Iridium 9603N Beacon Radio Board
 
-## Circuit Board Assembly and Configuration
+## Circuit Board Assembly
 
 ![Assembly_6.JPG](https://github.com/PaulZC/Iridium_Beacon_Radio_Board/blob/master/img/Assembly_6.JPG)
 
