@@ -106,6 +106,13 @@ onto the Iridium Beacon board for the radio board to plug into:
 
 ![Assembly_8.JPG](https://github.com/PaulZC/Iridium_Beacon_Radio_Board/blob/master/img/Assembly_8.JPG)
 
+### How much does it weigh?
+
+Fully assembled, including Energiser® Ultimate Lithium AA batteries and all three antennas, the total weight of the Iridium Beacon plus
+Radio Board is 129.2g
+
+![Assembly_9.JPG](https://github.com/PaulZC/Iridium_Beacon_Radio_Board/blob/master/img/Assembly_9.JPG)
+
 ### The Small Print
 
 This project is distributed under a Creative Commons Attribution + Share-alike (BY-SA) licence.
